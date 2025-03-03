@@ -1,3 +1,5 @@
+Made by Marcalachu
+EN MANTENIMIENTO
 Descargarlo:
 Para empezar, tendrás que meterte al server de discord, donde tendrás el enlace a la descarga del híbrido desde mega, donde tendrás que instalarlo, y acto seguido, instalar el .net que esta abajo de la descarga del híbrido en el mensaje de discord, después de esto, tendrás que ubicar el archivo instalado del híbrido, y tendrás que descomprimirlo en una carpeta, aparte, también tendrás que abrir el archivo .net y descargarlo en la pantalla que te aparecerá, dicho esto, después tendrás que abrir la carpeta descomprimida del híbrido y entrar en la carpeta “aqui esta el launcher”, donde habrá un archivo llamado marcalachu hybrid que tendrás que abrir.
 
